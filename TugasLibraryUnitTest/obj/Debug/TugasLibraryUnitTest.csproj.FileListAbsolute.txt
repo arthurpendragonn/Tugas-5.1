@@ -1,0 +1,11 @@
+C:\Users\Dito\Desktop\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.dll
+C:\Users\Dito\Desktop\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.pdb
+C:\Users\Dito\Desktop\02 tugas\TugasLibraryUnitTest\bin\Debug\nunit.framework.dll
+C:\Users\Dito\Desktop\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibrary.dll
+C:\Users\Dito\Desktop\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibrary.pdb
+C:\Users\Dito\Desktop\02 tugas\TugasLibraryUnitTest\bin\Debug\nunit.framework.xml
+C:\Users\Dito\Desktop\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.csprojAssemblyReference.cache
+C:\Users\Dito\Desktop\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Dito\Desktop\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.csproj.CopyComplete
+C:\Users\Dito\Desktop\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.dll
+C:\Users\Dito\Desktop\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.pdb
